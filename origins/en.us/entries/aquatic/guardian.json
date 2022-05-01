@@ -1,0 +1,11 @@
+{
+    "name": "guardian",
+    "icon": "minecraft:prismarine_shard",
+    "category": "patchouli:aquatic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Guardians are known for protecting their monuments and precious sponges within. Some are known for evolving into elder guardians!"
+        }
+    ]
+}
